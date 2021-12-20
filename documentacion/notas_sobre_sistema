@@ -15,6 +15,9 @@ password="turismo1234"
 - Implemente el borrado logico con el atributo activo en cada clase y luego pregunto isActivo()
 - Uso un INPUT Hidden para mandar la accion por POST y en el Servlet decido que hacer
 
+---------------------
+En la carpeta documentacion esta el UML y el BKP SQL
+
 
 Link GitHub
 -------------
