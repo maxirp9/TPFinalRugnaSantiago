@@ -1,0 +1,29 @@
+Notas sobre el sistema
+------------------------
+
+
+La BD se llama TPFinalRugnaSantiago
+
+Conector=> jdbc:mysql://localhost:3306/tpfinalRugnaSantiago?serverTimezone=UTC
+user="turismo"
+password="turismo1234"
+
+---------------------------------------
+
+- Utilizar el usuario: maxi y pass: 1234 para entrar
+- El ABML completo es el de Empleados, al mismo tiempo crea el usuario.
+- Implemente el borrado logico con el atributo activo en cada clase y luego pregunto isActivo()
+- Uso un INPUT Hidden para mandar la accion por POST y en el Servlet decido que hacer
+
+
+Link GitHub
+-------------
+
+https://github.com/maxirp9/TPFinalRugnaSantiago.git
+
+
+
+Link de Youtube con la explicacion:
+------------------------------------
+
+https://youtu.be/IT_FeCUSe4M
